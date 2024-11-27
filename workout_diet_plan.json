@@ -1,7 +1,7 @@
 [
  {
-   "gender": " Male",
-   "age": " 18-30",
+   "gender": "Male",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -14,7 +14,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -27,7 +27,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -40,7 +40,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -53,7 +53,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -66,7 +66,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -79,7 +79,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -91,8 +91,8 @@
    "diet_plan_2": "Breakfast: Greek yogurt with honey, nuts.Lunch: Tuna salad, whole grain crackers.Dinner: Grilled fish, brown rice.Snacks: Apple slices with almond butter. "
  },
  {
-   "gender": " Male",
-   "age": " 18-30",
+   "gender": "Male",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -118,7 +118,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -131,7 +131,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -144,7 +144,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -157,7 +157,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Normal",
@@ -170,7 +170,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Normal",
@@ -183,7 +183,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Normal",
@@ -196,7 +196,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Normal",
@@ -209,7 +209,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Normal",
