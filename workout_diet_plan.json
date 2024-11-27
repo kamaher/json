@@ -105,7 +105,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -222,7 +222,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Normal",
@@ -235,7 +235,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -248,7 +248,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -261,7 +261,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -274,7 +274,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -287,7 +287,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -300,7 +300,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -313,7 +313,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -326,7 +326,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -339,7 +339,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -352,7 +352,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -365,7 +365,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": false,
    "hypertension": true,
    "bmi": " Overweight",
@@ -378,7 +378,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Overweight",
@@ -391,7 +391,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Overweight",
@@ -404,7 +404,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Overweight",
@@ -417,7 +417,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Overweight",
@@ -430,7 +430,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Overweight",
@@ -443,7 +443,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": false,
    "bmi": " Overweight",
@@ -456,7 +456,7 @@
  },
  {
    "gender": " Male",
-   "age": " 51+",
+   "age": "51-99",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -469,7 +469,7 @@
  },
  {
    "gender": " Male",
-   "age": " 51+",
+   "age": "51-99",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -482,7 +482,7 @@
  },
  {
    "gender": " Male",
-   "age": " 51+",
+   "age": "51-99",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -495,7 +495,7 @@
  },
  {
    "gender": " Female",
-   "age": " 51+",
+   "age": "51-99",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -508,7 +508,7 @@
  },
  {
    "gender": " Female",
-   "age": " 51+",
+   "age": "51-99",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -521,7 +521,7 @@
  },
  {
    "gender": " Female",
-   "age": " 51+",
+   "age": "51-99",
    "diabetes": false,
    "hypertension": false,
    "bmi": " Normal",
@@ -534,7 +534,7 @@
  },
  {
    "gender": " Male",
-   "age": " 51+",
+   "age": "51-99",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -547,7 +547,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -560,7 +560,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -573,7 +573,7 @@
  },
  {
    "gender": " Male",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -586,7 +586,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -599,7 +599,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -612,7 +612,7 @@
  },
  {
    "gender": " Female",
-   "age": " 18-30",
+   "age": "18-30",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -625,7 +625,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -638,7 +638,7 @@
  },
  {
    "gender": " Male",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -651,7 +651,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -664,7 +664,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
@@ -677,7 +677,7 @@
  },
  {
    "gender": " Female",
-   "age": " 31-50",
+   "age": "31-50",
    "diabetes": true,
    "hypertension": true,
    "bmi": " Overweight",
